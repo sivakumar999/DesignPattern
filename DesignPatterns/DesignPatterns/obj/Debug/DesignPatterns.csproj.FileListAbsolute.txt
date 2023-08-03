@@ -1,0 +1,8 @@
+M:\Simplilearn\Projects\sec10\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+M:\Simplilearn\Projects\sec10\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+M:\Simplilearn\Projects\sec10\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+M:\Simplilearn\Projects\sec10\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.AssemblyReference.cache
+M:\Simplilearn\Projects\sec10\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\Projects\sec10\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+M:\Simplilearn\Projects\sec10\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+M:\Simplilearn\Projects\sec10\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
